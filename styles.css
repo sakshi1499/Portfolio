@@ -1,0 +1,62 @@
+h2{
+  font: "Germania One";
+  font-weight: 600;
+  }
+h6{
+  color: Grey;
+}
+h3{
+  font-weight: 600;
+}
+.Age{
+  padding-top: 50px;
+  }
+.Education{
+
+  padding-top: 40px;
+  }
+.Languages{
+
+  padding-bottom: 10px;
+}
+.Contact{
+    padding-top: 40px;
+  padding-bottom: 10px;
+}
+.Interests{
+  padding-left: 400px;
+  position: relative;
+  margin-right: 100px;
+}
+.Software{
+  padding-left: 400px;
+  position: relative;
+  margin-right: 100px;
+}
+.ach{
+  padding-left: 400px;
+    margin-right: 100px;
+}
+.sakport{
+  padding-top:20px;
+  padding-bottom: 20px;
+  border-radius: 70%;
+  height: 300px;
+  width: 50%;
+  transform: rotate(90deg);
+}
+.Intro{
+  padding-top: 200px;
+  padding-left: 80px;
+
+}
+h5{
+  color: Grey;
+  margin-left: 20px;
+  margin-right: 30px;
+}
+p{
+  text-align: center;
+  color: Grey;
+  padding-top: 30px;
+}
