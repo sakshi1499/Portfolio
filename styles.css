@@ -60,3 +60,12 @@ p{
   color: Grey;
   padding-top: 30px;
 }
+@media(max-width:780px)
+  {
+    .sakport{
+      padding-top: 10px;
+    }
+    body{
+      margin-left: 100px;
+    }
+}
